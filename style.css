@@ -104,6 +104,12 @@
     /* max width = tela menor que alguma resolucao*/
 
 
+    *{
+        background-image: url(fundo.jpg);
+        margin: 0;
+        padding: 328;
+    }
+
     .capa{
 
         display: flex;
@@ -114,6 +120,7 @@
     
     #foto{
         
+        width: 280px;
         margin-left: 20%;
         margin-right: 7%;
         
