@@ -1,0 +1,100 @@
+*{
+    background-image: url(fundo.jpg);
+    margin: 0;
+    padding: 0;
+}
+
+.capa{
+
+    display: flex;
+    align-items: center;
+    margin-top: 12%;
+    color: white;
+}
+
+#foto{
+    
+    margin-left: 20%;
+    margin-right: 7%;
+    
+
+}
+
+#nome{
+
+    margin-left: 7%;
+    margin-right: 20%;
+}
+#objetivo{
+
+    margin-top: -1%;
+    margin-left: 55%;
+    margin-bottom: 15%;
+    color: white;
+
+}
+
+.contatos{
+
+    color: white;
+    margin-left: 250px;
+    margin-top: -350px;
+
+}
+
+#fone{
+
+    display: flex;
+
+}
+
+#linkedines{
+
+    display: flex;
+
+}
+
+#gmail{
+
+    display: flex;
+    
+
+}
+
+#local{
+
+    display: flex;
+    
+
+}
+#formacao{
+
+    margin-left: 250px;
+    margin-top: 100px;
+    color: white;
+
+}
+#experiencias{
+
+    margin-left: 250px;
+    margin-top: 100px;
+    color: white;
+}
+.agradeço{
+
+    color: white;
+    margin-left: 750px;
+    margin-top: -370px;
+
+}
+#botao{
+
+    color: yellow;
+}
+#emogi{
+
+    margin-left: 800px;
+    margin-top: 100px;
+    width: 280px;
+
+}
